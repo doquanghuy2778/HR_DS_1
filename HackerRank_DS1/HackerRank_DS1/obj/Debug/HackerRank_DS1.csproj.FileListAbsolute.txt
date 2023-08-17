@@ -1,0 +1,8 @@
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\bin\Debug\HackerRank_DS1.exe.config
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\bin\Debug\HackerRank_DS1.exe
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\bin\Debug\HackerRank_DS1.pdb
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\obj\Debug\HackerRank_DS1.csproj.AssemblyReference.cache
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\obj\Debug\HackerRank_DS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\obj\Debug\HackerRank_DS1.csproj.CoreCompileInputs.cache
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\obj\Debug\HackerRank_DS1.exe
+C:\Users\HUY\Desktop\Practice\HackerRank_DS1\HackerRank_DS1\obj\Debug\HackerRank_DS1.pdb
